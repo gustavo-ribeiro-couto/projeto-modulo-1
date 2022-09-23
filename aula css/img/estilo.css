@@ -1,0 +1,27 @@
+h1{
+    color: aqua;
+}
+h2{
+    color: aqua;
+}
+p{
+    color: rgb(41, 139, 99);}
+
+.cor-paragrafo-impar{color: blue;}
+
+#caixa-2 {color: rgba(34, 58, 9, 0.911);}
+#caixa-3 {color: darkcyan;}
+#caixa-4 {color: darkred;}
+.titulo {font-family: helvetica ,"trebuchet MS" , sans-serif; 
+
+border-left: 2px solid ;
+
+}/*refazer todos os comandos em casa*/
+img{
+    width: 250px;
+}
+#imagem{ background-color: darkturquoise;
+     width: 600px;
+     margin: 0 auto
+}
+
